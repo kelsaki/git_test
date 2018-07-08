@@ -6,4 +6,4 @@
 
 
  var myHeading = document.querySelector('p');
- myHeading.textContent = 'Hello World!';
+ myHeading.textContent = 'This is a test';
