@@ -7,3 +7,11 @@
 
  var myHeading = document.querySelector('p');
  myHeading.textContent = 'This is a test';
+ 
+              
+var myVariable;
+myVariable = 'Bob';
+document.getElementById("demo").innerHTML = myVariable;
+
+var myVariable2= 'Sam';
+document.getElementById("demo2").innerHTML = myVariable2;
