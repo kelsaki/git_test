@@ -5,5 +5,5 @@
  */
 
 
-var myHeading = document.querySelector('p');
-myHeading.textContent = 'Hello World!';
+ var myHeading = document.querySelector('p');
+ myHeading.textContent = 'Hello World!';
